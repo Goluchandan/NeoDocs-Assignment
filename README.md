@@ -7,10 +7,10 @@
 
 # 
 
-![Selected & Unselected CheckBox](https://i.ibb.co/YLLbvq4/Screenshot-620.png)
+![](https://i.ibb.co/YLLbvq4/Screenshot-620.png)
 
 
-#  result
+#  Result
 ![Result page](https://i.ibb.co/TT1QWHD/Screenshot-623.png)
 
 # Final result
