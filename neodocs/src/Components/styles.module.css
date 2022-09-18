@@ -1,0 +1,125 @@
+.student_main_container > input {
+    width: 18px;
+    height: 18px;
+    
+}
+.student_main_container > input[type="checkbox"]{
+    accent-color:green;
+}
+
+.student_main_container > label {
+    font-size: 22px;
+    margin-left: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing:1px;
+}
+.student_main_container > ul > li > input { 
+    width: 15px;
+    height: 15px;
+    
+}
+.student_main_container > ul > li > label { 
+    font-size: 19px;
+    margin-left: 8px;
+}
+
+/* here i wrote teacher component css */
+
+.header{
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(0, 3, 36);
+    height:85px
+    
+}
+.header > img {
+    height: 45px;
+    cursor: pointer;
+    padding: 20px;
+}
+.header>h1{
+    text-align: center;
+    color : white;
+    margin-top: 20px;
+
+    
+}
+
+.teacher_main_container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width:80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    gap: 20px;
+   
+   
+}
+.teacher_main_container > div {
+    border: 8px solid ghostwhite;
+    padding: 30px 20px 20px 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    background-color:gainsboro;
+    border-radius: 8px;
+    width: 330px;
+    
+}
+
+.selectedStudent{
+    background-color: darkgrey;
+    text-align: center;
+    padding-bottom: 8px;
+    padding-top: 5px;
+    margin-top: 40px;
+    color: white;
+    font-size: 25px;
+}
+
+/* here i wrote selectedstudent component css */
+
+
+.selectedStudent_main_container{
+    width:80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.selected_map_div {
+    border: 4px solid slategrey;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    background-color:floralwhite;
+    border-radius: 8px;
+    padding: 1px 40px ;
+    margin-top:   10px;;
+  
+
+}
+.selectedStudent_main_container > div > h3 {
+    font-size:26px;
+    color:coral;  
+   
+}
+
+.selectedStudent_main_container > div > h6 {
+    font-size:18px;
+    margin-top: 0px;
+    font-weight: 500;
+    text-align: center;
+    background-color:rgb(235, 226, 209) ;
+
+}
+.color{
+    color:darkorange;
+    font-weight: 500;
+}
+.selectedStudent_main_container > div > ul{
+    margin-top: -15px;
+    padding-left: 60px;
+}
+.selectedStudent_main_container > div > ul > li {
+    font-size:21px;
+    
+
+}
