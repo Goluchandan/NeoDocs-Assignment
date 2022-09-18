@@ -3,10 +3,10 @@
 ## Screeshots
 
 # Home page
-![Home page](https://ibb.co/Nxnstkf)
+![Home page](https://i.ibb.co/v1vHVrf/Screenshot-624.png)
 # Here is functionality that if all child checkbox is not checked then parent will be not checked
-![Navbar With Dropdown](https://ibb.co/mccSQMr)
+![Selected & Unselected CheckBox](https://i.ibb.co/YLLbvq4/Screenshot-620.png)
 # Here is functionality that if all child checkbox is not selected then there will not show All the students of parent checkbox has been selected
-![Home page](https://ibb.co/6Z8KX4c)
+![Result page](https://i.ibb.co/TT1QWHD/Screenshot-623.png)
 # Final result
-![Navbar With Dropdown](https://ibb.co/3fX3HMj)
+![Final result page](https://i.ibb.co/db9TyLV/Screenshot-622.png)
