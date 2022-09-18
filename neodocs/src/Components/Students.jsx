@@ -16,7 +16,7 @@ const Students = ({data , obj , setObj}) => {
             setTeacher(true)
             setObj({ ...obj, status : teacher ,tName : data.teacher })
         }
-        console.log("ramjane")
+
     },[student1, student2, student3, student4 ,teacher])
 
   return (

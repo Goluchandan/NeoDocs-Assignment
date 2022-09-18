@@ -11,9 +11,6 @@ const Teacher = () => {
     const [tech4, setTech4]  = useState({})
     const [tech5, setTech5]  = useState({})
 
-
-    console.log(tech1,tech2)
-
     const tObj1 = {
         teacher: "Prateek Shukla",
         student1 : "Hardik Panday",

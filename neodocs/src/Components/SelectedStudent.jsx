@@ -2,14 +2,13 @@ import React from 'react'
 import styles from './styles.module.css'
 
 const SelectedStudent = ({arr}) => {
-
-   console.log(arr);
+    
   return (
     <div className = {styles.selectedStudent_main_container}>
         {arr.map((elem,i)=>{
             return (
                 <div key={i} className = {elem.student1 || elem.student2 || elem.student3 || elem.student4 ? `${styles.selected_map_div}`:null}>
-                    {elem.status ?
+                    {elem.status && elem.student1 && elem.student2 && elem.student3 && elem.student4 ?
                     <>     
                         <h3>{elem.tName}</h3>
                         <ul>
